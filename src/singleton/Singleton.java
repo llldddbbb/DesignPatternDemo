@@ -8,13 +8,7 @@ package singleton;
  * @email 571002217@qq.com
  * @description
  */
-public class Demo1 {
+public class Singleton {
 
-    private final static Singleton singleton = new Singleton();
-
-
-    public static Singleton getInstance () {
-        return singleton;
-    }
 
 }
